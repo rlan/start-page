@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# 鏈接 Links
+# 開始 Start
 
 ## Google
 

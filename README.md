@@ -1,3 +1,3 @@
-# Start Ｐage
+# Start Page
 
-This is a start page built with [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/).
+This is a start page built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).

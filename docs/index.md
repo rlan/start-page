@@ -42,3 +42,8 @@ hide:
 
 [ :material-weather-cloudy: 中央氣象局 ](https://www.cwb.gov.tw/){ .md-button}
 [ :material-bus: 大臺北公車](https://ebus.gov.taipei/){ .md-button }
+
+## 銀行 Banks
+
+[ :material-bank: 嘉信理財 Charles Schwab ](https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?chinese=y){ .md-button }
+[ :material-bank: 樂天國際銀行 ](https://www.rakuten-bank.com.tw/){ .md-button }

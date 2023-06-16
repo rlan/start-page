@@ -26,6 +26,13 @@ hide:
 [ :simple-facebook: Facebook 臉書 ](https://facebook.com/){ .md-button }
 [ :simple-yahoo: Yahoo! 奇摩 ](https://tw.yahoo.com/){ .md-button }
 
+## 音影 Multimedia
+
+[ :fontawesome-solid-radio: AccuRadio ](https://www.accuradio.com/){ .md-button }
+[ :material-movie: DramasQ ](https://dramasq.cc/){ .md-button }
+[ :simple-netflix: Netflix ](https://netflix.com/){ .md-button }
+[ :material-library: 空中英語教室 ](https://m.studioclassroom.com/){ .md-button }
+
 ## 購物 Shopping
 
 [ :simple-shopee: 蝦皮購物 ](https://shopee.tw/){ .md-button }

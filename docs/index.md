@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Links
+# 鏈接 Links
 
 ## Google
 

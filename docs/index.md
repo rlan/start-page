@@ -13,6 +13,7 @@ hide:
 [ :simple-youtube: YouTube ](https://youtube.com/){ .md-button }
 [ :simple-googlephotos: Photos ](https://photos.google.com/){ .md-button }
 [ :simple-googlemaps: Maps ](https://maps.google.com/){ .md-button }
+[ :simple-googlenews: News ](https://news.google.com/){ .md-button }
 
 ## Microsoft
 

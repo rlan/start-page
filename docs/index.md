@@ -8,12 +8,12 @@ hide:
 ## Google
 
 [ :simple-gmail: Gmail ](https://mail.google.com/){ .md-button }
-[ :simple-google: Search ](https://google.com/){ .md-button }
+[ :simple-google: Search 搜尋 ](https://google.com/){ .md-button }
 [ :simple-youtube: YouTube ](https://youtube.com/){ .md-button }
-[ :simple-googlephotos: Photos ](https://photos.google.com/){ .md-button }
-[ :simple-googlemaps: Maps ](https://maps.google.com/){ .md-button }
-[ :simple-googlenews: News ](https://news.google.com/){ .md-button }
-[ :simple-googletranslate: Translate ](https://translate.google.com/){ .md-button }
+[ :simple-googlephotos: Photos 相片 ](https://photos.google.com/){ .md-button }
+[ :simple-googlemaps: Maps 地圖 ](https://maps.google.com/){ .md-button }
+[ :simple-googlenews: News 新聞 ](https://news.google.com/){ .md-button }
+[ :simple-googletranslate: Translate 翻譯 ](https://translate.google.com/){ .md-button }
 
 ## Microsoft
 

@@ -22,9 +22,8 @@ hide:
 
 ## 其他 Others
 
-[ :fontawesome-solid-blog: Rick's blog ](https://ricklan.net/blog/){ .md-button }
 [ :simple-facebook: Facebook 臉書 ](https://facebook.com/){ .md-button }
-[ :simple-yahoo: Yahoo! 奇摩 ](https://tw.yahoo.com/){ .md-button }
+[ :fontawesome-brands-yahoo: Yahoo! 奇摩 ](https://tw.yahoo.com/){ .md-button }
 
 ## 音影 Multimedia
 
@@ -46,3 +45,8 @@ hide:
 
 [ :material-bank: 嘉信理財 Charles Schwab ](https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?chinese=y){ .md-button }
 [ :material-bank: 樂天國際銀行 ](https://www.rakuten-bank.com.tw/){ .md-button }
+
+## 正州 Rick
+
+[ :fontawesome-solid-blog: Rick's 部落格 ](https://ricklan.net/blog/){ .md-button }
+[ :material-draw-pen: 孩子們的畫畫](https://artwork.lan.estate){ .md-button }
